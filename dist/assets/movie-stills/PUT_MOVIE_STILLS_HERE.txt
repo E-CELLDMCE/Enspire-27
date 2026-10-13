@@ -1,0 +1,1 @@
+Add authorized movie stills named hero.jpg and closing.jpg to this folder. The website does not generate images.
